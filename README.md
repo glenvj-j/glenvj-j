@@ -3,7 +3,7 @@
 Data Analyst with a 6 years of professional design experience to craft clear and impactful data storytelling. Recently transitioned to data analytics, combining analytical skills with design expertise to transform complex information into actionable insights and easy to digest. Known for strong attention to detail and the ability to quickly learn and adapt to new tools, techniques, and challenges.
 
 
-![Python](https://img.shields.io/badge/License-Customized-brightgreen.svg)
+![Profile](https://img.shields.io/badge/Python-green?style=for-the-badge)![Profile](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
 
 <!--
 **glenvj-j/glenvj-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
