@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-Data Analyst with a 6 years of professional design experience to craft clear and impactful data storytelling. Recently transitioned to data analytics, combining analytical skills with design expertise to transform complex information into actionable insights and easy to digest. Known for strong attention to detail and the ability to quickly learn and adapt to new tools, techniques, and challenges.
+I'm a Data Analyst with a background in design, specializing in turning complex data into clear, actionable insights through impactful storytelling. By blending analytical skills with visual communication, I create intuitive and data-driven solutions. Passionate about problem-solving, I adapt quickly to new tools and techniques while maintaining a strong attention to detail.
 
+📊 Focus Areas: Data Storytelling | Insightful Dashboards | Process Optimization
 
-![Profile](https://img.shields.io/badge/Python-green?style=for-the-badge)![Profile](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
+![Profile](https://img.shields.io/badge/Coding-Python-green?style=for-the-badge)![Profile](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
+
+![Profile](https://img.shields.io/badge/Design-Photoshop-lightblue?style=for-the-badge)![Profile](https://img.shields.io/badge/Affinity-purple?style=for-the-badge)![Profile](https://img.shields.io/badge/Figma-orange?style=for-the-badge)
 
 <!--
 **glenvj-j/glenvj-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
